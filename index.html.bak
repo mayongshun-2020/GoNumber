@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ <link rel="stylesheet" href="css/style.css">
+ </head>
+ <body>
+  <header>
+   <div class="content">
+    <div class="fixed">
+    <div class="top win">
+	 <img src="images/logo.png" alt="" class="logo">
+	 <ul>
+	 	<li><a href="#">Home</a></li>
+	 	<li><a href="#">About</a></li>
+	 	<li><a href="#">How TO Play</a></li>
+	 	<li><a href="#">Winners</a></li>
+	 	<li><a href="#">Contact Us</a></li>
+	 </ul>
+     <div class="menu">menu</div>
+	 <div class="menulist">
+	  <p><a href="#">Home</a></p>
+	  <p><a href="#">About</a></p>
+	  <p><a href="#">How To Play</a></p>
+	  <p><a href="#">Winners</a></p>
+	  <p><a href="#">Contact Us</a></p>
+	 </div>
+	 </div>
+	</div>
+	<div class="banner">
+	 <img src="images/banner.jpg" alt="">
+	 <h2>Number Go</h2>
+	 <div class="but">
+	 <a href="#" class="a1">Join Us</a>
+	 <a href="#" class="a2">Login</a>
+	 </div>	 
+	</div>
+   </div>
+  </header>
+  <section>
+    <div class="content">
+	 <div class="title">
+	 <h3>Screenshot of Games</h3>
+	 <p></p>
+	 </div>
+	 <div class="screenBox flex">
+	   <div class="sub">
+	    <img src="images/login.jpg" alt="">
+	   </div>
+	   <div class="sub">
+	    <h3>home page with text description</h3>
+		<p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext description</p>
+		<a href="#">ReadMore</a>
+	   </div>
+	   <div class="sub">
+	    <h3>home page with text description</h3>
+		<p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext description</p>
+		<a href="#">ReadMore</a>
+	   </div>
+	   <div class="sub"><img src="images/game.jpg" alt=""></div>
+	   <div class="sub">
+	    <img src="images/instr.jpg" alt="">
+	   </div>
+	   <div class="sub">
+	    <h3>home page with text description</h3>
+		<p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext description</p>
+		<a href="#">ReadMore</a>
+	   </div>
+	 </div>
+	</div>
+  </section>
+  <section>
+    <div class="content">
+	 <div class="title">
+	 <h3>	Call to action to play the game</h3>
+	 <p></p>
+	 </div>
+	 <div class="contactbg">
+	  <h3>Contact From</h3>
+	  <p>Welcome To Join Us,Please Enter Your Information!</p>
+	  <form action="" class="flex">
+	    <input type="text" placeholder="Name">
+		<input type="text" placeholder="Password">
+		<input type="text" placeholder="Your Email">
+		<input type="submit" value="submit">
+	  </form>
+	 </div>
+	</div>
+  </section>
+  <section>
+   <div class="content">
+    <div class="title">
+	 <h3>About Talented high school</h3>
+	 <p></p>
+	 </div>
+	 <div class="talented flex">
+	   <div class="list">
+	     <img src="images/1.jpg" alt="">
+		 <div class="traninfo sub">
+	     <h3>text description</h3>
+		 <p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext</p>
+		 <a href="#">ReadMore</a>
+	   </div>
+	   </div>
+	   <div class="list">
+	     <img src="images/2.jpg" alt="">
+		 <div class="traninfo sub">
+	     <h3>text description</h3>
+		 <p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext</p>
+		 <a href="#">ReadMore</a>
+	   </div>
+	   </div>
+	   <div class="list">
+	     <img src="images/3.jpg" alt="">
+		 <div class="traninfo sub">
+	     <h3>text description</h3>
+		 <p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext</p>
+		 <a href="#">ReadMore</a>
+	   </div>
+	   </div>
+	   <div class="list">
+	     <img src="images/banner.jpg" alt="">
+		 <div class="traninfo sub">
+	     <h3>text description</h3>
+		 <p>text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext</p>
+		 <a href="#">ReadMore</a>
+	   </div>
+	   </div>
+	 </div>
+   </div>
+  </section>
+  <section>
+    <div class="content">
+	 <div class="title">
+	 <h3>	What we want to do</h3>
+	 <p></p>
+	 </div>
+	 <div class="what">
+	   <ul>
+	   	<li>
+		 <a href="#">one</a>
+		<img src="images/sch1.jpg" alt=""></li>
+	   	<li>
+		 <a href="#">two</a>
+		<img src="images/sch2.jpg" alt=""></li>
+	   	<li>
+		 <a href="#">three</a>
+		<img src="images/sch3.jpg" alt=""></li>
+	   	<li class="on">
+		 <a href="#">four</a>
+		<img src="images/sch4.jpg" alt=""></li>
+	   </ul>
+	 </div>
+	</div>
+  </section>
+  <footer>
+    <div class="content">
+	 <div class="foot1 flex">
+	   <img src="images/logo.png" alt="" class="logo">
+	   <p>CopyRight@2019_Go Number</p>
+	 </div>
+	 <img src="images/seo.jpg" alt="" class="seo">
+	</div>
+  </footer>
+  <div class="gohome">TOP</div>
+  <script src="js/jquery.js"></script>
+  <script>
+  var num=0;
+  var time=null;
+   $(".what ul li").hover(function(){
+	  num=$(this).index();
+	  clearInterval(time);
+      $(this).addClass("on").siblings("li").removeClass("on");
+	  
+   },function(){
+     auto();
+   });
+    function auto(){
+    time=setInterval(function(){
+	 num++;
+	 if(num>4)num=0;
+	 $(".what ul li").eq(num).addClass("on").siblings("li").removeClass("on");	 
+	},3000);
+   }
+   auto();
+
+   //up
+   $(".gohome").click(function(){
+    $("html,body").animate({"scrollTop":"0px"},2000);
+   });
+   //menu
+   var scrolltop=$(window).scrollTop();
+   $(window).scroll(function(){
+    if(scrolltop>80){
+    $(".top").addClass("win");
+   }
+   });
+   //menulist
+   $(".menu").click(function(){
+   $(".menulist").slidesuggle()
+   });
+  </script>
+ </body>
+</html>
